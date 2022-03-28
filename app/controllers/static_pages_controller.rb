@@ -10,4 +10,7 @@ class StaticPagesController < ApplicationController
 
   def cat
   end
+
+  def contact
+  end
 end
